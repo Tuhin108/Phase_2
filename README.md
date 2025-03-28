@@ -11,5 +11,5 @@ It covers concepts like RNNs, LSTMs, and their applications in stock price predi
 The platform is designed for beginners and advanced learners to understand time-series analysis effectively. Check out the live demos and code implementations!
 
 
-Link to checkout the website ⬇️⬇️⬇️
+Link to checkout the website- 
 https://v0-rnn-animation-project.vercel.app/
